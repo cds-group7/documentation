@@ -19,7 +19,7 @@ The problem description will be posted [here](overview.md) when the study starts
 We are using a remote screensharing tool to collect data. You should walkthrough [session 0](session0.md) before the study to install the required tools.
 
 ## Tools for Collaboration
-Please use [ExperimentorX](https://experimentorx.mentoracademy.org) for collaboratively editing Jupyter Notebooks. A detailed instruction could be find [here](howto.md). Feel free to use other tools for collaboration.
+Please use [Experimentor](https://experimentor-test.mentoracademy.org) for collaboratively editing Jupyter Notebooks. A detailed instruction could be find [here](howto.md). Feel free to use other tools for collaboration.
 
 ## Contact
 
